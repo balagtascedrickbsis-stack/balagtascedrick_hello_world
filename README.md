@@ -2,7 +2,7 @@
 This project was created for Activity 3 in the IS 312 course. It demonstrates a basic Python website that runs on a local server and displays the message “Cedrick Balagtas Hello World.”
 ## Framerwork Used
 Flask - is a lightweight Python web framework used in PyCharm to create web applications and run a local web server.
-## How to run the application locally
+## How to Run the Application Locally
 1. Open the project "app.py" in PyCharm
 2. Make sure that flask is installed, if not enter:
 ```
